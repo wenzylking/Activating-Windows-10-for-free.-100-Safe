@@ -1,4 +1,4 @@
-# Activating-Windows-10-for-free.-100-Safe
+# Activating-Windows-10-for-free.-100%-Safe
 You can activate you windows 10 for free with this code and it's 100% safe
 Step-1: Just copy the code and paste it in notepad (Notepad++ is recommended).
 Step-2: After pasting the code in notepad, click on save as and save the file with the extension ".bat" or ".cmd" (default extension will be txt). Code wont work unless u save it with ".bat" or ".cmd" extension.
